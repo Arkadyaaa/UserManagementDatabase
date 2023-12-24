@@ -1,0 +1,22 @@
+/* Styles.css */
+.table-view .column-header .label {
+    -fx-text-fill: white;
+}
+
+.table-cell {
+    -fx-background-color: rgb(60, 60, 60);
+    -fx-text-fill: white;
+}
+
+.table-column-label {
+    -fx-background-color: rgb(60, 60, 60);
+}
+
+.column-header {
+    -fx-background-color: rgb(60, 60, 60);
+    -fx-text-fill: white;
+}
+
+.table-view {
+    -fx-background-color: rgb(40, 40, 40);
+}
